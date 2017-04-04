@@ -1,1 +1,2 @@
 # haydar
+benden bunlar eklendi
